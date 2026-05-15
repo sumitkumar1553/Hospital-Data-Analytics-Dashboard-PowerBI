@@ -213,7 +213,7 @@ Aspiring Data Analyst | Power BI Enthusiast | Business Intelligence Learner
 
 ### 🔗 Connect With Me
 
-* LinkedIn: linkedin.com/in/sumit-kumar-2k07
+* LinkedIn: https://www.linkedin.com/in/sumit-kumar-2k07/
 * GitHub: https://github.com/sumitkumar1553
 
 ---
